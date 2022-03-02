@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**What platform is the bug present on?**
+What service is this bug present on? VPN Client, Website, Discord, etc?
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
